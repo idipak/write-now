@@ -12,7 +12,7 @@ class MokshFeedTitleSelection extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    textController.text = 'Level';
+    textController.text = 'Write now...';
     return TextFormFieldFilled(
       hintText: 'Create what you want!',
       borderRadius: 12,
