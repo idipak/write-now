@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "458418343831",
+    "project_id": "level-social",
+    "storage_bucket": "level-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458418343831:android:ef7105dc68bf30a91cbed2",
+        "android_client_info": {
+          "package_name": "com.example.bhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458418343831-odn5v0ahlkvd35aqjttrtbs2328crae2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1LJxrviqJeaVESWENkLIPmEnug8yegxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458418343831-odn5v0ahlkvd35aqjttrtbs2328crae2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458418343831-po4odb9p9na8pvj9g4mcdi5ua177n9n7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bhealth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
